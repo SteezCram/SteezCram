@@ -1,6 +1,6 @@
 ### Hello I'm SteezCram
 
-My real name is Thomas Croizet. I'm a young developer from France. Mostly I develop on my spare time.
+My real name is Thomas CROIZET. I'm a young developer from France. Mostly I develop on my spare time.
 
 I love web and system developement. You can do anything once you has learned them.
 
