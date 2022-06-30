@@ -1,4 +1,4 @@
-## Hello I'm SteezCram
+## Hello I'm SteezCram (Thomas CROIZET)
 
 My real name is Thomas CROIZET. I'm a young developer from France. Mostly I develop on my spare time.
 
