@@ -11,7 +11,7 @@ I'm mostly skilled in system programming (C/C++, C# and NodeJS) and WEB programm
 [![PboViewer](https://github-readme-stats.vercel.app/api/pin/?username=SteezCram&repo=PboViewer&theme=dark)](https://github.com/SteezCram/PboViewer)
 [![sevenzip](https://github-readme-stats.vercel.app/api/pin/?username=SteezCram&repo=sevenzip&theme=dark)](https://github.com/SteezCram/sevenzip)
 [![Web-Wol](https://github-readme-stats.vercel.app/api/pin/?username=SteezCram&repo=web-wol&theme=dark)](https://github.com/SteezCram/web-wol)
-[![Web-Wol-CLI](https://github-readme-stats.vercel.app/api/pin/?username=SteezCram&repo=web-wol&theme=dark)](https://github.com/SteezCram/Web-Wol-CLI)
+[![Web-Wol-CLI](https://github-readme-stats.vercel.app/api/pin/?username=SteezCram&repo=Web-Wol-CLI&theme=dark)](https://github.com/SteezCram/Web-Wol-CLI)
 
 ### 📚 Some facts about me
 - 🔭 My repositories [Github](https://github.com/SteezCram?tab=repositories), [NPM](https://www.npmjs.com/~steezcram)
