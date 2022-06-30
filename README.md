@@ -1,13 +1,23 @@
-## Hello I'm SteezCram (Thomas CROIZET)
+## 👋 Hello I'm SteezCram (Thomas CROIZET)
 
-My real name is Thomas CROIZET. I'm a young developer from France. Mostly I develop on my spare time.
+I'm a young developer from France. I'm currently a student in a master of computer science at [ENSSAT](https://www.enssat.fr/). I code private project and public project in my spare time.
+I'm mostly skilled in system programming (C/C++, C# and NodeJS) and WEB programming (HTML, CSS, JS, SQL). My main focus is on end user application (website with Vue and NuxtJS, GUI application with Electron and WinUI) and backend servers for the WEB. I have also some knowledge in UI and UX to power my application.
 
-I love web and system developement. You can do anything once you has learned them.
+### 📊 Some stats
+![SteezCram's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteezCram&count_private=true&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteezCram&count_private=true&layout=compact&theme=dark)
 
-## Personal stuffs
-- 🔭 Find my repositories [here](https://github.com/SteezCram?tab=repositories)
+### My top loved projects
+[![PboViewer](https://github-readme-stats.vercel.app/api/pin/?username=SteezCram&repo=PboViewer&theme=dark)](https://github.com/SteezCram/PboViewer)
+[![sevenzip](https://github-readme-stats.vercel.app/api/pin/?username=SteezCram&repo=sevenzip&theme=dark)](https://github.com/SteezCram/sevenzip)
+[![Web-Wol](https://github-readme-stats.vercel.app/api/pin/?username=SteezCram&repo=web-wol&theme=dark)](https://github.com/SteezCram/web-wol)
+[![Web-Wol-CLI](https://github-readme-stats.vercel.app/api/pin/?username=SteezCram&repo=web-wol&theme=dark)](https://github.com/SteezCram/Web-Wol-CLI)
+
+### 📚 Some facts about me
+- 🔭 My repositories [Github](https://github.com/SteezCram?tab=repositories), [NPM](https://www.npmjs.com/~steezcram)
 - 🌱 I’m currently learning everything I love ❤️
-- 📫 Connect with me with [Discord](https://discord.com/users/125604255112364032)
+- 💬 Ask me about **System Development**
+- 📫 Reach me with [Discord](https://discord.com/users/125604255112364032)
 - ⚡ Fun fact: C# > all
 
 <!--
