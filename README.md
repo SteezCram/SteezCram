@@ -1,6 +1,6 @@
 ## 👋 Hello I'm SteezCram (Thomas CROIZET)
 
-I'm a young developer from France. I'm currently a full stack developer at [EZUS](https://ezus.io/). I code private project and public project in my spare time.
+I'm a young developer from France. I'm currently a full stack developer at [EZUS](https://ezus.io). I code private project and public project in my spare time.
 I'm mostly skilled in system programming (C/C++, C# and NodeJS) and WEB programming (HTML, CSS, JS, SQL). My main focus is on end user application (website with Vue and NuxtJS, GUI application with Electron and WinUI) and backend servers for the WEB. I have also some knowledge in UI and UX to power my application.
 
 ### 📊 Some stats
