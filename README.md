@@ -21,7 +21,7 @@ Software developer from France 🇫🇷. I build web apps, desktop tools and Nod
 
 ### 📫 Find me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/TON-IDENTIFIANT)
+- 💼 [LinkedIn](https://www.linkedin.com/in/thomas-croizet)
 - 📦 [npm](https://www.npmjs.com/~steezcram)
 - 💬 [Discord](https://discord.com/users/125604255112364032)
 - ⚡ Fun fact: C# > all
