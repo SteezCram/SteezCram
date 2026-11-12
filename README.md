@@ -1,20 +1,27 @@
-## 👋 Hello I'm SteezCram (Thomas CROIZET)
+## 👋 Hi, I'm Thomas Croizet (SteezCram)
 
-I'm a young developer from France.. I code private project and public project in my spare time.
+Software developer from France 🇫🇷. I build web apps, desktop tools and Node.js libraries.
 
-I'm mostly skilled in system programming (C/C++, C# and NodeJS) and WEB programming (HTML, CSS, JS, SQL). My main focus is on end user application (website with Vue and NuxtJS, GUI application with Electron and WinUI) and backend servers for the WEB. I have also some knowledge in UI and UX to power my application.
+### 🛠️ Projects
 
-### 📊 Some stats
-![SteezCram's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteezCram&count_private=true&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteezCram&count_private=true&layout=compact&theme=dark)
+- [sevenzip](https://github.com/SteezCram/sevenzip): 7-Zip wrapper for Node.js on Windows, Linux and macOS, published as [`@steezcram/sevenzip`](https://www.npmjs.com/package/@steezcram/sevenzip)
 
-### ❤️ My top loved projects
-[![PboViewer](https://github-readme-stats.vercel.app/api/pin/?username=SteezCram&repo=PboViewer&theme=dark)](https://github.com/SteezCram/PboViewer)
-[![sevenzip](https://github-readme-stats.vercel.app/api/pin/?username=SteezCram&repo=sevenzip&theme=dark)](https://github.com/SteezCram/sevenzip)
+### 🗄️ Earlier work (Arma 3, no longer active)
 
-### 📚 Some facts about me
-- 🔭 My repositories [GitHub](https://github.com/SteezCram?tab=repositories), [NPM](https://www.npmjs.com/~steezcram)
-- 🌱 I’m currently learning everything I love ❤️
-- 💬 Ask me about **System Development**
-- 📫 Reach me with [Discord](https://discord.com/users/125604255112364032)
+- [PboViewer](https://github.com/SteezCram/PboViewer): cross-platform PBO packer / unpacker with a GUI and a CLI (C#)
+- [extDB3](https://github.com/SteezCram/extDB3): archive of the Arma 3 database extension, with Windows and Linux x64 builds (C++)
+- [Arma-Crypto-Binary](https://github.com/SteezCram/Arma-Crypto-Binary): bitwise operations and RC4 in pure SQF
+- [Armaholic-Archive](https://github.com/SteezCram/Armaholic-Archive): archive of the content that used to live on Armaholic
+
+### 🧰 Tech
+
+**Languages:** C#, C/C++, JavaScript (Node.js), Python, SQL  
+**Web:** Vue, Nuxt, HTML/CSS  
+**Desktop:** Electron, WinUI
+
+### 📫 Find me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/TON-IDENTIFIANT)
+- 📦 [npm](https://www.npmjs.com/~steezcram)
+- 💬 [Discord](https://discord.com/users/125604255112364032)
 - ⚡ Fun fact: C# > all
